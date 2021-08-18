@@ -1,3 +1,8 @@
+
+#### Video (slow debug mode)
+
+https://user-images.githubusercontent.com/36490605/129956522-b9b0d054-4c42-4922-8174-4b3624749607.mp4
+
 ### Building for source
 
 1
